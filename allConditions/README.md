@@ -1,1 +1,1 @@
-Userform with dynamic combo boxes wiche add entries in database.
+Userform with dynamic combo boxes which add entries in database.
